@@ -25,8 +25,8 @@ To get this API up and running, follow these steps:
    If you haven’t already, clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/webdev3211/tushar-test-assignment.git
-   cd tushar-test-assignment
+   git clone https://github.com/webdev3211/test-rest-api.git
+   cd test-rest-api
    npm install
 
 
